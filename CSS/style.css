@@ -1,0 +1,17 @@
+p{
+    color:rgb(255, 170, 0);
+} 
+h1{
+    font-size: 50px;
+text-decoration: overline;
+color: blue;    
+} 
+
+body {
+    background-color:#ff485b;
+}
+a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+}
+
